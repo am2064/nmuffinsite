@@ -1,0 +1,8 @@
+{
+	"site-title": "Naughty Muffin",
+	"footer-text": "Built with <a href=\"http://laktek.github.com/punch\">Punch</a>",
+	"navbar": [
+		{ "label": "About", "href": "index.html" },
+		{ "label": "News", "href": "news.html" }
+	]
+}
